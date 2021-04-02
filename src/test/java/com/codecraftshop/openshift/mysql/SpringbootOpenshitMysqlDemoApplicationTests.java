@@ -1,4 +1,4 @@
-package com.codecraftshop.openshift.mysql;
+package openshift.mysql;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
